@@ -1,0 +1,5 @@
+a333f5f153cf30515900ba44a6d78ae79d3a17cda489b292bf1a22823fc0c8dc *ubuntu-focal-core-cloudimg-amd64-root.tar.gz
+da1be54b8f93bfa77a7e0e346708ba4da211d102b9870fcc5e04b108df25663e *ubuntu-focal-core-cloudimg-arm64-root.tar.gz
+adb4e3503b77afb8da1801f4eab84f39c6b711b53a20dd39a1f47c12eddb27a6 *ubuntu-focal-core-cloudimg-armhf-root.tar.gz
+21cdaf0a3c64c4bb0a4651893f2485b039d1b11588d09743c963a74a583646c1 *ubuntu-focal-core-cloudimg-ppc64el-root.tar.gz
+0ff3a1a9c149a3ffc74230f47f8601169fff8e539495ff08a4d942658fa90084 *ubuntu-focal-core-cloudimg-s390x-root.tar.gz
